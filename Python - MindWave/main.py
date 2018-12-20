@@ -1,3 +1,6 @@
+## Imagination Machine 2.0 by Clara Leivas, 2018 
+## licensed under CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/
+
 import serial
 import time
 import sys
