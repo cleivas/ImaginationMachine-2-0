@@ -1,3 +1,8 @@
+/* Imagination Machine 2.0 by Clara Leivas, 2018 
+ * licensed under CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/4
+ */
+
+
 int red = 11;    
 int purple = 10;
 int blue = 9;
