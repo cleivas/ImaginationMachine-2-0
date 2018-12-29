@@ -13,6 +13,6 @@ Imagination Machine 2.0 aims to remind you of the uniqueness of you and every si
 The algorithms were developed through arbitrary choices. Therefor there is no scientifically correct analysis you can make out of the result. This way I have taken away a possible cause of judgement and comparison. What is left instead is the opportunity to accept and hopefully appreciate that whatever the reason for the placement of the drops it was only possible because of you.
 
 
-Tools: MindWave EEG headset, Python, Arduino, peristaltic pumps, Houston Instrument digital plotter, grbl (customized for the plotter by Davey Taylor at DS Prototyp, not included in this repository)
-Partners: DS prototyp, Little Finger
+Tools: MindWave EEG headset, Python, Arduino, peristaltic pumps, Houston Instrument digital plotter, grbl (customized for the plotter by Davey Taylor at DS Prototyp, not included in this repository)<br>
+Partners: DS prototyp, Little Finger<br>
 Funded by: Region Skåne 
